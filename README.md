@@ -3,7 +3,7 @@
 ## Sites
 
 - [Live Example](https://stefanbc.github.io/vuepress-theme-asgar/) - clone this repo and run `yarn && yarn example:dev`
-- [Live Example - ULIVZ's space](https://stefancosma.xyz.xyz)
+- [Live Example - Stefan Cosma](https://stefancosma.xyz.xyz)
 
 
 
