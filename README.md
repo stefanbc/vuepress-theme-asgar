@@ -1,11 +1,9 @@
 # vuepress-theme-asgar
- 
+
 ## Sites
 
 - [Live Example](https://stefanbc.github.io/vuepress-theme-asgar/) - clone this repo and run `yarn && yarn example:dev`
-- [Live Example - Stefan Cosma](https://stefancosma.xyz.xyz)
-
-
+- [Live Example - Stefan Cosma](https://stefancosma.xyz)
 
 ## Install
 
@@ -13,7 +11,6 @@
 yarn add vuepress-theme-asgar -D
 # OR npm install vuepress-theme-asgar -D
 ```
-
 
 ## Usage
 
